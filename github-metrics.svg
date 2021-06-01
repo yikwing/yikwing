@@ -1323,9 +1323,9 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="326.3090141604048" height="8" fill="#b07219"/>
                     <rect mask="url(#languages-bar)" x="326.3090141604048" y="0" width="62.63450767206882" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="388.9435218324736" y="0" width="24.814310504837994" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="413.7578323373116" y="0" width="19.39636504533112" height="8" fill="#F18E33"/>
+                    <rect mask="url(#languages-bar)" x="413.7578323373116" y="0" width="19.39636504533112" height="8" fill="#A97BFF"/>
                     <rect mask="url(#languages-bar)" x="433.1541973826427" y="0" width="18.146191700724795" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.30038908336746" y="0" width="4.903345112163853" height="8" fill="#2c3e50"/>
+                    <rect mask="url(#languages-bar)" x="451.30038908336746" y="0" width="4.903345112163853" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="456.20373419553135" y="0" width="2.048112548222491" height="8" fill="#701516"/>
                     <rect mask="url(#languages-bar)" x="458.25184674375384" y="0" width="1.7481532562461697" height="8" fill="#3572A5"/>
                 </svg>
@@ -1343,7 +1343,7 @@
                 Dart
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#F18E33" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Kotlin
               </div>
                     <div class="field center no-wrap language">
@@ -1351,7 +1351,7 @@
                 JavaScript
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2c3e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Vue
               </div>
                     <div class="field center no-wrap language">
@@ -2383,7 +2383,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Tue, 01 Jun 2021 08:38:17  with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 01 Jun 2021 10:04:19  with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
